@@ -1,1 +1,1 @@
-# sprouts-game-player
+# Sprouts Game Player
